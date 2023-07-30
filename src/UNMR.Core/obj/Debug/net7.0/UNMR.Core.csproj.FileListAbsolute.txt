@@ -1,0 +1,12 @@
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/bin/Debug/net7.0/UNMR.Core.deps.json
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/bin/Debug/net7.0/UNMR.Core.dll
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/bin/Debug/net7.0/UNMR.Core.pdb
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.csproj.AssemblyReference.cache
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.AssemblyInfoInputs.cache
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.AssemblyInfo.cs
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.csproj.CoreCompileInputs.cache
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.dll
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/refint/UNMR.Core.dll
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/UNMR.Core.pdb
+/Users/bhooms/Projects/UNMR/src/UNMR.Core/obj/Debug/net7.0/ref/UNMR.Core.dll

@@ -1,0 +1,19 @@
+﻿DEBUG 2023-07-30 11:54:13,056 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-07-30 11:54:13,087 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2023-07-30 11:54:13,150 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: UNMR.Migrator.UNMRMigratorModule, UNMR.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,150 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: UNMR.EntityFrameworkCore.UNMREntityFrameworkModule, UNMR.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: UNMR.UNMRCoreModule, UNMR.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=8.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=8.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=8.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=8.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=8.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,151 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=8.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,152 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2023-07-30 11:54:13,313 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: UNMR.EntityFrameworkCore.UNMRDbContext, UNMR.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-07-30 11:54:13,519 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2023-07-30 11:54:13,528 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2023-07-30 11:54:13,535 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2023-07-30 11:54:13,537 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: UNMR
+INFO  2023-07-30 11:54:13,565 [1    ] UNMR.Migrator.Log                        - Host database: server=localhost;database=UNMRDb;trusted_connection=True;trustservercertificate=True
+INFO  2023-07-30 11:54:13,565 [1    ] UNMR.Migrator.Log                        - Continue to migration for this host database and all tenants..? (Y/N): 
